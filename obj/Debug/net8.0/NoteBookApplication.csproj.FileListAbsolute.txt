@@ -1,0 +1,14 @@
+C:\Users\27659\Desktop\Software Development\programming projects\NoteBookApplication\bin\Debug\net8.0\NoteBookApplication.exe
+C:\Users\27659\Desktop\Software Development\programming projects\NoteBookApplication\bin\Debug\net8.0\NoteBookApplication.deps.json
+C:\Users\27659\Desktop\Software Development\programming projects\NoteBookApplication\bin\Debug\net8.0\NoteBookApplication.runtimeconfig.json
+C:\Users\27659\Desktop\Software Development\programming projects\NoteBookApplication\bin\Debug\net8.0\NoteBookApplication.dll
+C:\Users\27659\Desktop\Software Development\programming projects\NoteBookApplication\bin\Debug\net8.0\NoteBookApplication.pdb
+C:\Users\27659\Desktop\Software Development\programming projects\NoteBookApplication\obj\Debug\net8.0\NoteBookApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\27659\Desktop\Software Development\programming projects\NoteBookApplication\obj\Debug\net8.0\NoteBookApplication.AssemblyInfoInputs.cache
+C:\Users\27659\Desktop\Software Development\programming projects\NoteBookApplication\obj\Debug\net8.0\NoteBookApplication.AssemblyInfo.cs
+C:\Users\27659\Desktop\Software Development\programming projects\NoteBookApplication\obj\Debug\net8.0\NoteBookApplication.csproj.CoreCompileInputs.cache
+C:\Users\27659\Desktop\Software Development\programming projects\NoteBookApplication\obj\Debug\net8.0\NoteBookApplication.dll
+C:\Users\27659\Desktop\Software Development\programming projects\NoteBookApplication\obj\Debug\net8.0\refint\NoteBookApplication.dll
+C:\Users\27659\Desktop\Software Development\programming projects\NoteBookApplication\obj\Debug\net8.0\NoteBookApplication.pdb
+C:\Users\27659\Desktop\Software Development\programming projects\NoteBookApplication\obj\Debug\net8.0\NoteBookApplication.genruntimeconfig.cache
+C:\Users\27659\Desktop\Software Development\programming projects\NoteBookApplication\obj\Debug\net8.0\ref\NoteBookApplication.dll
